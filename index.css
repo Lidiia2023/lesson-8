@@ -1,0 +1,12 @@
+*{ box-sizing: border-box;}
+h1{
+    background-color: blue;
+    color: beige;
+    font-size: large;
+    padding: 15px;
+}
+ul{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 15px 40px;
+}
